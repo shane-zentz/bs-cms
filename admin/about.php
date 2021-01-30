@@ -1,0 +1,7 @@
+<h2>About BS-CMS</h2>
+<p>BS-CMS was created by <a href="https://www.shanezentz.com" target="_blank">Shane Zentz</a> in 2020, mostly as a learning project. After searching the internet I found a few flat file CMS', some were pretty nice, such as Grav and Get Simple, others were not as nice. After a bit of tinkering I decided to try to make my own CMS just because I was looking for a project to work on and had always wanted to create a flat file CMS for my own use. I have created MySQL driven CMS' before, but this was new to me and so was going to be a learning curve. I knew it would be a complex task and had hoped to find a few tutorials to at least point me in the right direction. However, there seem to be very few tutorials (or really any information at all) on how to go about creating a flat file CMS.</p>
+<p>So, I set out to work. I tried to learn as much as I could by going through the complicated code on a few open source flat file CMS'. After a bit of working, I had a very simple but working flat file CMS. I have added to it and polished it even more since then. In the end it is just supposed to be a simple, working (for my purposes), and easy to use flat file CMS.</p>
+<p>I want to say thanks for using/downloading my project and I hope you find it useful. Feel free to add comments or suggestions or even submit code changes/upgrades, etc.</p>
+<p>Shane Zentz</p>
+<p>&copy; 2020</p>
+<p>Creator of BS-CMS</p>
