@@ -1,5 +1,7 @@
 BS-CMS (c) 2020 by Shane Zentz (https://www.shanezentz.com/)
 
+V-1.0.6 : is mostly a maintenance build, mainly the previous version stopped working because of changes made by tinymce, so now tinymce will need to be 'self-hosted' instead of using the cloud version. This build also includes a couple of other minor updates/fixes.
+
 Licensed:    MIT
 Description: BS-CMS is a simple CMS (content management system) that is a flat-file based system. It uses JSON and XML files
              in place of an SQL database. This is the first version, and you should consider it a beta release. In other words
