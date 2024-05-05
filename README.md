@@ -1,5 +1,7 @@
 BS-CMS (c) 2020 by Shane Zentz (https://www.shanezentz.com/)
 
+V-1-0-7 : is likely the final or penultimate relase of bs-cms. Everything should be functioning correctly now. I would like to add a few things if I have time, such as ability to edit theme files directly in cms and user permissions but not sure if I'll have time to work on this much. But either way it is fully functioning and works as I intended/needed it to.
+
 V-1.0.6 : is mostly a maintenance build, mainly the previous version stopped working because of changes made by tinymce, so now tinymce will need to be 'self-hosted' instead of using the cloud version. This build also includes a couple of other minor updates/fixes.
 
 Licensed:    MIT
